@@ -1,0 +1,17 @@
+{
+  "name": "jeasyui",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-uglify": "",
+    "grunt-contrib-concat": "",
+    "grunt-contrib-clean": ""
+  },
+  "description": "project for dealing with jquery easyui plugins",
+  "main": "getdeps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
